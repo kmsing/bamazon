@@ -1,7 +1,7 @@
 var mysql = require("mysql");
 var prompt = require("prompt");
 var inquirer = require('inquirer');
-var colors = require('colors');
+
 
 // Settings to connect to the Bamazon database
 var connection = mysql.createConnection({
