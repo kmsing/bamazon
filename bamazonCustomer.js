@@ -43,7 +43,7 @@ inquirer.prompt([
           	
           	{
           		type: "input",
-          		message: "What is the id of the item you would like to buy?",
+          		message: "Please enter the item id.",
           		name: "id"
           	},
 
